@@ -7,7 +7,7 @@
 
 ## Оглавление
 1. [Описание проекта](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/README.md#Описание-проекта)
-2. [Основная проблема проекта?](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/README.md#Основная-проблема-проекта?)
+2. [Основная проблема проекта?](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/README.md#Какой-кейс-решаем)
 3. [Краткая информация о данных](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/README.md#Краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/README.md#Этапы-работы-над-проектом)
 5. [Результат](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/README.md#Результат)
