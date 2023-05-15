@@ -1,5 +1,5 @@
 # PROJECT-3.-EDA-Feature-Engineering
-  (ссылка на проект [https://colab.research.google.com/drive/1xwfnXUaP8w2dc-riTp5c_DDAJN0eKe_w?usp=sharing)](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/baseline_saveleva_v2.ipynb)
+  ссылка на проект [https://colab.research.google.com/drive/1xwfnXUaP8w2dc-riTp5c_DDAJN0eKe_w?usp=sharing)](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/blob/main/baseline_saveleva_v2.ipynb)
   
   ссылка на датасет [hotels_train.csv](https://drive.google.com/file/d/1--3ZGooerTN7jOdDdMuwVqW6aCnKCEG7/view?usp=share_link)
   [hotels_test.csv](https://drive.google.com/file/d/14v4zBMVeVdt6Lr6WuoZTPTeiCpsPTVgq/view?usp=share_link)
