@@ -6,11 +6,11 @@
   [submission.csv](https://drive.google.com/file/d/1--ZgyB_LJvFuoiMPuyk1EAcsDAuanqFn/view?usp=share_link)
 
 ## Оглавление
-1. [Описание проекта](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта#Описание-проекта)
-2. [Основная проблема проекта?](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Основная-проблема-проекта?#Основная-проблема-проекта?)
-3. [Краткая информация о данных](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Краткая-информация-о-данныхКраткая-информация-о-данных)
+1. [Описание проекта](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Описание-проекта)
+2. [Основная проблема проекта?](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Основная-проблема-проекта?)
+3. [Краткая информация о данных](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Этапы-работы-над-проектом)
-5. [Результат]((https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта)#Результат)
+5. [Результат](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Результат)
 6. [Выводы](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Выводы)
 
 
