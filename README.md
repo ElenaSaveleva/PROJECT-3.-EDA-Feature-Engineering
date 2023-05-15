@@ -6,19 +6,19 @@
   [submission.csv](https://drive.google.com/file/d/1--ZgyB_LJvFuoiMPuyk1EAcsDAuanqFn/view?usp=share_link)
 
 ## Оглавление
-1. [Описание проекта](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Описание-проекта)
-2. [Основная проблема проекта?](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Основная-проблема-проекта?)
-3. [Краткая информация о данных](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Краткая-информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Этапы-работы-над-проектом)
-5. [Результат](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Результат)
-6. [Выводы](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#Выводы)
+1. [Описание проекта](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Описание-проекта)
+2. [Основная проблема проекта?](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Основная-проблема-проекта?)
+3. [Краткая информация о данных](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Этапы-работы-над-проектом)
+5. [Результат](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Результат)
+6. [Выводы](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Выводы)
 
 
 ### Описание проекта
 Представьте, что вы работаете датасаентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов нахождения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель играет нечестно, и его стоит проверить.
 Вам поставлена задача создать такую модель. 
 
-:arrow_up:[к оглавлению]([https://github.com/ElenaSaveleva/Project_1/blob/main/README.md](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта)#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Оглавление)
 
 
 ### Основная проблема проекта?
@@ -43,7 +43,7 @@
 Учимся корректно писать код на Python для анализа и преобразовывать исходные данные, практикуем методы очистки данных, навыки по представлению проекта на GitHub и в Kaggle
 
 
-:arrow_up:[к оглавлению]([https://github.com/ElenaSaveleva/Project_1/blob/main/README.md](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта)#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Оглавление)
 
 
 ### Краткая информация о данных
@@ -55,7 +55,7 @@
 - submission.csv - файл сабмишна в нужном формате
 
 
-:arrow_up:[к оглавлению]([https://github.com/ElenaSaveleva/Project_1/blob/main/README.md](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта)#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -69,18 +69,18 @@
 - Загрузка проекта на GitHub и в Kaggle 
 
 
-:arrow_up:[к оглавлению]([https://github.com/ElenaSaveleva/Project_1/blob/main/README.md](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта)#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Оглавление)
 
 
 ### Результат
 Проект модели, которая будет предсказывать рейтинг отеля представлен в репозитории на GitHub и в Kaggle
 
 
-:arrow_up:[к оглавлению]([https://github.com/ElenaSaveleva/Project_1/blob/main/README.md](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта)#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Оглавление)
 
 
 ### Выводы
 В процессе выполнения проекта первоначальные данные были проанализированы, преобразованы, проведен разведывательный анализ данных с последующей визуализацией результатов с целью выявления взаимосвязей между признаками, данные были очищены от пропусков. Таким образом первоначальный датасет подготовлен для дальнейшего использования при обучении модели. 
 
 
-:arrow_up:[к оглавлению]([https://github.com/ElenaSaveleva/Project_1/blob/main/README.md](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/edit/main/README.md#описание-проекта)#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/PROJECT-3.-EDA-Feature-Engineering/main/README.md#Оглавление)
